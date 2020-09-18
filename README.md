@@ -21,7 +21,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone this repository by using the Terminal to navigate to the desired location on your computer and then enter the following line of code into the Terminal:
 ```
-git clone https://github.com/mimipeshy/re-former.git
+git clone https://github.com/KossySteve/members_only.git
 ```
 2. Run `cd members_only` to move inside the downloaded repository.
 3. Run `bundle install` to download the project's dependencies.
