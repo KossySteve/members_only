@@ -43,6 +43,12 @@ git clone https://github.com/mimipeshy/re-former.git
 - Linkedin: [Peris Ndanu](https://www.linkedin.com/in/peris-ndanu-405083193/)
 
 
+👤 **Ezeokwelume Stephen Kosisochukwu**
+
+- Github: [KossySteve](https://github.com/KossySteve)
+- Linkedin: [Kossy Steve](https://www.linkedin.com/in/steve-ez-b090ba198/)
+
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
