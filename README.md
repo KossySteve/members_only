@@ -2,9 +2,6 @@
 A microverse project to work with authentcation in rails, creating posts and restricting non_users from access to view posts.
 
 
-![screenshot](./new_user.png)
-![screenshot](./edit_user.png)
-
 
 ## Built With
 
