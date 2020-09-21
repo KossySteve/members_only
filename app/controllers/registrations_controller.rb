@@ -1,3 +1,4 @@
+# contains methods that characterizes registration for users
 class RegistrationsController < Devise::RegistrationsController
 
 
